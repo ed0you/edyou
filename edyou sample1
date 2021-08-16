@@ -1,0 +1,6 @@
+<html>
+    <body>
+        <input type="checkbox">
+        <input type="file">
+    </body>
+</html>
